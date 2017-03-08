@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/clock.ico</file>
+        <file>images/configure.png</file>
+        <file>images/go_back_today.png</file>
+        <file>images/icon.ico</file>
+        <file>calendar.qm</file>
+    </qresource>
+</RCC>

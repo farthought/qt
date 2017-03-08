@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ipcfg.qm</file>
+        <file>icon/network-wired.png</file>
+        <file>ipcfg_english.qm</file>
+        <file>ipcfg_ko.qm</file>
+    </qresource>
+</RCC>

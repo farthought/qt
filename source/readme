@@ -1,0 +1,5 @@
+aostarsso;单点登陆代码
+appbox：程序盒，在任务栏创建程序盒用于放置托盘程序
+calendarwidget：日历程序
+networksetup:网络设置对话框,可以动态切换不同国家语言
+systemtray-5.0：面板创建程序，供其它程序调用用于创建面板

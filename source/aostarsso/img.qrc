@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="background">img/background.png</file>
+        <file alias="passwd">img/passwd.png</file>
+        <file alias="user">img/user.png</file>
+        <file alias="close_press">img/btn_close_down.png</file>
+        <file alias="close_hover">img/btn_close_highlight.png</file>
+        <file alias="close_normal">img/btn_close_normal.png</file>
+        <file alias="mini_press">img/btn_mini_down.png</file>
+        <file alias="mini_hover">img/btn_mini_highlight.png</file>
+        <file alias="mini_normal">img/btn_mini_normal.png</file>
+        <file alias="lock">img/lock.png</file>
+        <file alias="unlock">img/unlock.png</file>
+        <file alias="tray">img/tray.png</file>
+        <file alias="login_hover">img/login_hover.png</file>
+        <file alias="login_normal">img/login_normal.png</file>
+        <file alias="login_press">img/login_press.png</file>
+        <file>qt_zh_CN.qm</file>
+        <file alias="tray_unlock">img/warning.png</file>
+        <file alias="tray_lock">img/success.png</file>
+        <file alias="login_result">img/login_result.png</file>
+        <file alias="login_disable">img/login_disable.png</file>
+    </qresource>
+</RCC>
